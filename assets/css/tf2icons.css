@@ -1,0 +1,78 @@
+@font-face {
+	font-family: 'TF2Icons';
+	src: url("../fonts/tf2icons.eot");
+	src: url("../fonts/tf2icons.eot?#iefix") format('embedded-opentype'), url("../fonts/tf2icons.woff") format('woff'), url("../fonts/tf2icons.ttf") format('truetype'), url("../tf2icons.svg#icons") format('svg');
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-decoration: inherit;
+	text-transform: none;
+}
+
+i.tf2.icon {
+	display: inline-block;
+	opacity: 1;
+	margin: 0em 0.25rem 0em 0em;
+	width: 1.18em;
+	height: 1em;
+	font-family: 'TF2Icons';
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	text-align: center;
+	speak: none;
+	font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+i.tf2.icon.earbuds:before {
+	content: "\e904";
+}
+
+i.tf2.icon.key:before {
+	content: "\e901";
+}
+
+i.tf2.icon.reclaimed:before {
+	content: "\e900";
+}
+
+i.tf2.icon.refined:before {
+	content: "\e902";
+}
+i.tf2.icon.scrap:before {
+	content: "\e903";
+}
+
+i.large.icon {
+	line-height: 1;
+	vertical-align: middle;
+	font-size: 1.5em;
+}
+
+i.big.icon {
+	line-height: 1;
+	vertical-align: middle;
+	font-size: 2em;
+}
+
+i.huge.icon {
+	line-height: 1;
+	vertical-align: middle;
+	font-size: 4em;
+}
+
+i.massive.icon {
+	line-height: 1;
+	vertical-align: middle;
+	font-size: 6em;
+}
+
+i.gigantic.icon {
+	line-height: 1;
+	vertical-align: middle;
+	font-size: 8em;
+}

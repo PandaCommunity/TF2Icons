@@ -12,3 +12,12 @@ Usage is simple and straight forward:
   <i class="tf2 key icon"></i>
   <i class="tf2 earbuds icon"></i>
 ```
+
+In addition, there's also some size attributes:
+```
+  <i class="tf2 large scrap icon"></i>
+  <i class="tf2 big scrap icon"></i>
+  <i class="tf2 huge scrap icon"></i>
+  <i class="tf2 massive scrap icon"></i>
+  <i class="tf2 gigantic scrap icon"></i>
+```
